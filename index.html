@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sydney Uni MCSR Leaderboard</title>
+  <meta name="description" content="MCSR Ranked leaderboard for Sydney university Minecraft societies.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <h1>Sydney Uni <span>MCSR</span> Leaderboard</h1>
+    <p class="sub">MCSR Ranked stats for Sydney university Minecraft societies</p>
+  </header>
+
+  <main>
+    <section id="standings" class="card" hidden>
+      <h2>Uni standings <small>average ELO of each uni's top 3 ranked players</small></h2>
+      <div id="standings-list" class="standings"></div>
+    </section>
+
+    <section class="card">
+      <div class="controls">
+        <div class="seg" id="sort" role="group" aria-label="Sort by">
+          <button data-sort="elo" class="active">ELO</button>
+          <button data-sort="pb">PB</button>
+          <button data-sort="avg">Average</button>
+        </div>
+        <input id="search" type="search" placeholder="Search player…" aria-label="Search player">
+        <select id="uni-filter" aria-label="Filter by uni"><option value="">All unis</option></select>
+        <span id="updated" class="updated"></span>
+      </div>
+
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr><th>#</th><th>Player</th><th>Uni</th><th class="num">ELO</th><th>Rank</th><th class="num">PB</th><th class="num">Average</th></tr>
+          </thead>
+          <tbody id="rows"></tbody>
+        </table>
+      </div>
+      <p id="empty" class="empty" hidden></p>
+    </section>
+
+    <footer>
+      <p>Stats come from <a href="https://mcsrranked.com" target="_blank" rel="noopener">MCSR Ranked</a> and refresh automatically about every 20 minutes. PB and average are over all ranked completions.</p>
+      <p>Want to be added? Message a committee member your MCSR Ranked username and your uni.</p>
+    </footer>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

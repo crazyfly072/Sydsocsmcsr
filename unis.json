@@ -1,0 +1,9 @@
+{
+  "USYD": { "name": "University of Sydney", "color": "#e64626" },
+  "UNSW": { "name": "UNSW Sydney", "color": "#ffd500" },
+  "UTS": { "name": "UTS", "color": "#3b82f6" },
+  "MQ": { "name": "Macquarie University", "color": "#d12a3e" },
+  "WSU": { "name": "Western Sydney University", "color": "#f97316" },
+  "ACU": { "name": "Australian Catholic University", "color": "#a855f7" },
+  "OTHER": { "name": "Other", "color": "#94a3b8" }
+}
