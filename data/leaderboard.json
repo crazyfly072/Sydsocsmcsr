@@ -1,5 +1,5 @@
 {
- "updated": 1795767007537,
+ "updated": 1795767632062,
  "rows": [
   {
    "name": "crazyfly072",
@@ -80,6 +80,16 @@
    "pbMs": 660936,
    "avgMs": 865504,
    "completions": 23
+  },
+  {
+   "name": "Erroot",
+   "uuid": "920cbab1e50e4f7ea6b89241d7760820",
+   "uni": "UTS",
+   "elo": 604,
+   "tier": "Iron I",
+   "pbMs": 2261111,
+   "avgMs": 2261111,
+   "completions": 1
   },
   {
    "name": "jomshh",
