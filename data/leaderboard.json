@@ -1,1 +1,25 @@
-{ "updated": 0, "rows": [] }
+{
+ "updated": 1795755867709,
+ "rows": [
+  {
+   "name": "crazyfly072",
+   "uuid": "f493a0cfc7c841b98178c381c1f44e67",
+   "uni": "UNSW",
+   "elo": 1570,
+   "tier": "Diamond I",
+   "pbMs": 562225,
+   "avgMs": 921326,
+   "completions": 567
+  },
+  {
+   "name": "jomshh",
+   "uuid": "7504bfd445dd41d99c9f156c735e5889",
+   "uni": "UNSW",
+   "elo": 1161,
+   "tier": "Gold III",
+   "pbMs": 701215,
+   "avgMs": 1037338,
+   "completions": 78
+  }
+ ]
+}
