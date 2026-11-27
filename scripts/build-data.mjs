@@ -66,8 +66,9 @@ for (const p of players) {
     } else {
       const d = r.data;
       const s = d.statistics?.total ?? {};
-      const comps = s.completions?.ranked ?? 0;
-      const totalTime = s.completionTime?.ranked ?? 0;
+      const cur = d.statistics?.season ?? {};
+      const comps = cur.completions?.ranked ?? 0;
+      const totalTime = cur.completionTime?.ranked ?? 0;
       rows.push({
         name: d.nickname ?? p.name,
         uuid: d.uuid ?? null,
