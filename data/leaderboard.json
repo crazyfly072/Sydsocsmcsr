@@ -1,5 +1,5 @@
 {
- "updated": 1795755867709,
+ "updated": 1795756507888,
  "rows": [
   {
    "name": "crazyfly072",
@@ -8,8 +8,78 @@
    "elo": 1570,
    "tier": "Diamond I",
    "pbMs": 562225,
-   "avgMs": 921326,
-   "completions": 567
+   "avgMs": 783084,
+   "completions": 96
+  },
+  {
+   "name": "TitanPlayz",
+   "uuid": "48ebb85620f348a6a1ae8ee65b5dc4d6",
+   "uni": "UNSW",
+   "elo": 916,
+   "tier": "Gold I",
+   "pbMs": 1010245,
+   "avgMs": 1332216,
+   "completions": 4
+  },
+  {
+   "name": "KnowerMeh",
+   "uuid": "47f8c678105c4190a3a6fc8799b54949",
+   "uni": "UNSW",
+   "elo": 1333,
+   "tier": "Emerald II",
+   "pbMs": 584484,
+   "avgMs": 918387,
+   "completions": 28
+  },
+  {
+   "name": "KithyKithKith",
+   "uuid": "68a01195761d4fcc9d4a6568e1e344d0",
+   "uni": "UNSW",
+   "elo": 871,
+   "tier": "Iron III",
+   "pbMs": 1133386,
+   "avgMs": 1686708,
+   "completions": 22
+  },
+  {
+   "name": "Olkebex",
+   "uuid": "2aff854a53ca47eba848efc56dc1bd68",
+   "uni": "USYD",
+   "elo": 1410,
+   "tier": "Emerald III",
+   "pbMs": 488905,
+   "avgMs": 814841,
+   "completions": 159
+  },
+  {
+   "name": "aBrayz",
+   "uuid": "13935918adec4d35b7e3c5515d8e719c",
+   "uni": "USYD",
+   "elo": 1501,
+   "tier": "Diamond I",
+   "pbMs": 632688,
+   "avgMs": 874539,
+   "completions": 64
+  },
+  {
+   "name": "KrazEMinecraft",
+   "uuid": "71ea936ed70a4d188a1fa637134d1a4b",
+   "uni": "UTS",
+   "elo": 1506,
+   "tier": "Diamond I",
+   "pbMs": 589767,
+   "avgMs": 798728,
+   "completions": 102
+  },
+  {
+   "name": "Turtle575",
+   "uuid": "1582a5fab6b2436e8ddb351cc441a9d2",
+   "uni": "UTS",
+   "elo": 1373,
+   "tier": "Emerald II",
+   "pbMs": 660936,
+   "avgMs": 865504,
+   "completions": 23
   },
   {
    "name": "jomshh",
@@ -18,8 +88,8 @@
    "elo": 1161,
    "tier": "Gold III",
    "pbMs": 701215,
-   "avgMs": 1037338,
-   "completions": 78
+   "avgMs": 967098,
+   "completions": 54
   }
  ]
 }
