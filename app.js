@@ -119,7 +119,6 @@
     state.updated = data.updated || 0;
     state.unis = unis;
     fillFilter();
-    renderStandings();
     renderTable();
     renderUpdated();
   }
