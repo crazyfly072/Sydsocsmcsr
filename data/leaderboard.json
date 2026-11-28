@@ -1,5 +1,5 @@
 {
- "updated": 1795831645091,
+ "updated": 1795861610836,
  "rows": [
   {
    "name": "crazyfly072",
@@ -35,7 +35,7 @@
    "name": "KithyKithKith",
    "uuid": "68a01195761d4fcc9d4a6568e1e344d0",
    "uni": "UNSW",
-   "elo": 871,
+   "elo": 814,
    "tier": "Iron III",
    "pbMs": 1133386,
    "avgMs": 1686708,
@@ -45,11 +45,11 @@
    "name": "Olkebex",
    "uuid": "2aff854a53ca47eba848efc56dc1bd68",
    "uni": "USYD",
-   "elo": 1410,
+   "elo": 1432,
    "tier": "Emerald III",
    "pbMs": 488905,
-   "avgMs": 814841,
-   "completions": 159
+   "avgMs": 815034,
+   "completions": 160
   },
   {
    "name": "aBrayz",
